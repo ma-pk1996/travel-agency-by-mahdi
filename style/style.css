@@ -1,0 +1,68 @@
+.section-search input {
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: white 3px solid !important;
+}
+
+.slides a {
+    padding: 5px 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    border-radius: 6px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: cornflowerblue;
+    transition: all 0.3s ease-out;
+}
+
+.slides a:hover {
+    font-size: 22px;
+    padding: 5px 20px;
+    color: white;
+    background-color: black;
+}
+
+.section-follow .fa-3x {
+    margin: 5px 10px;
+}
+
+.section-follow .white-text .face {
+    color: rgb(173, 226, 247);
+    transition: 0.3s;
+}
+
+.section-follow .white-text .pin {
+    color: palevioletred;
+    transition: 0.3s;
+}
+
+.section-follow .white-text .you {
+    color: salmon;
+    transition: 0.3s;
+}
+
+.section-follow .white-text .twitt {
+    color: cornflowerblue;
+    transition: 0.3s;
+}
+
+.section-follow .white-text .face:hover {
+    color: rgb(110, 143, 248);
+    transition: 0.3s;
+}
+
+.section-follow .white-text .pin:hover {
+    color: rgb(158, 10, 59);
+    transition: 0.3s;
+}
+
+.section-follow .white-text .you:hover {
+    color: rgb(168, 34, 19);
+    transition: 0.3s;
+}
+
+.section-follow .white-text .twitt:hover {
+    color: rgb(112, 110, 245);
+    transition: 0.3s;
+}
